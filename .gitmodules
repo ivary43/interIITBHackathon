@@ -1,0 +1,12 @@
+[submodule "webhook"]
+	path = webhook
+	url = https://github.com/ivary43/webhook
+[submodule "E-Commerce-ChatBot"]
+	path = E-Commerce-ChatBot
+	url = https://github.com/VatsalSin/E-Commerce-ChatBot
+[submodule "dialogflow_module"]
+	path = dialogflow_module
+	url = https://github.com/ivary43/dialogflow_module.git
+[submodule "scrapper-Server-JioChatBot"]
+	path = scrapper-Server-JioChatBot
+	url = https://github.com/tameeshB/scrapper-Server-JioChatBot
